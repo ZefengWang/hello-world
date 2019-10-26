@@ -6,4 +6,8 @@ for exercising
  1.
  2.
  3.
+# homework
+infator.c 因子问题
+output.c 输出图像
+
 
